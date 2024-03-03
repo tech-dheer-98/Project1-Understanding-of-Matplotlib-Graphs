@@ -2,6 +2,10 @@
 
 In this project, we dive into the world of data visualization using the Matplotlib library in Python. We explore various types of graphs and charts, understanding the basic parameters used to customize and enhance them. Each graph is accompanied by visual insights to help understand the data better.
 
+## Prerequisites:
+- Basic knowledge of Python programming.
+- Familiarity with data cleaning and manipulation techniques using Pandas.
+
 ## Topics Covered:
 - Bar Graph
 - Line Plot Graph
